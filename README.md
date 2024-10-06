@@ -36,6 +36,7 @@
         Complete And Fresh Hand Code Is My Ability. Client Satisfaction Is My First Priority. I Need Your Help In My
         Work.
     </p>
+</div> <br>
 
     - 🔭 I’m currently working on I work on various projects.
     - 🌱 I’m currently learning JavaScript, PHP
@@ -44,7 +45,6 @@
     - 💬 Ask me about Web Developer.
     - 📫 How to reach me: devmahdimunshee@gmail.com
     - 😄 Pronouns: Customer Satisfaction Is My First Priority.
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -85,13 +85,8 @@
 <a> 
     <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=okaymahdi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-
  ![GitHub metrics](https://metrics.lecoq.io/okaymahdi) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi)](https://github.com/anuraghazra/github-readme-stats)
 </a>
-
-![Mahdiul hasan Graph](https://github-readme-activity-graph.vercel.app/graph?username=okaymahdi&custom_title=Mahdiul hasan%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
