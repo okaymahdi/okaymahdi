@@ -13,10 +13,29 @@
     
 </div>
 
-   
+<div align="left">
+    <p>
+        ASSALAMU ALAIKUM..! Hey There, How Are You Doing? Welcome to my profile. This is MD. MAHDIUL HASAN. You can call
+        me
+        MAHDI. I am a simple person, I like to meet inspiring people, learn something from them and try to share those
+        valuable
+        lessons with future generations. I am eager to learn and share my knowledge with others as openly as possible. I
+        respect
+        and follow experienced people. We all want to live a beautiful life in the future.
 
+        Personally I spend a lot of my time behind web development and am passionate about creating error-free websites
+        with
+        100% client satisfaction. I have a passion, I love to solve real world problems. I am strategic, goal-oriented,
+        and
+        always work with an end goal in mind. I pride myself on maintaining quality work and excellent communication.
+        I mostly work in HTML, CSS, and JavaScript, but I also enjoy working with some technologies, including React js
+        and
+        Next
+        js.
 
-
+        Complete And Fresh Hand Code Is My Ability. Client Satisfaction Is My First Priority. I Need Your Help In My
+        Work.
+    </p>
 
     - 🔭 I’m currently working on I work on various projects.
     - 🌱 I’m currently learning JavaScript, PHP
@@ -25,7 +44,7 @@
     - 💬 Ask me about Web Developer.
     - 📫 How to reach me: devmahdimunshee@gmail.com
     - 😄 Pronouns: Customer Satisfaction Is My First Priority.
-
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -37,7 +56,6 @@
 </p>
 
 ## Use To Code
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -60,17 +78,18 @@
 
 <p align="center">
   <a href="https://github.com/okaymahdi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okaymahdi&theme=radical" alt="Harun's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okaymahdi&theme=radical" alt="Mahdiul hasan GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/okaymahdi"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=okaymahdi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/okaymahdi"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=okaymahdi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi)](https://github.com/anuraghazra/github-readme-stats)
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=okaymahdi&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Mahdiul hasan Graph](https://github-readme-activity-graph.vercel.app/graph?username=okaymahdi&custom_title=Mahdiul hasan%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
