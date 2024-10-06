@@ -86,6 +86,8 @@
     <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=okaymahdi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
+
+ ![GitHub metrics](https://metrics.lecoq.io/okaymahdi) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
