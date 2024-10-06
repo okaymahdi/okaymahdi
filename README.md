@@ -1,48 +1,113 @@
-<h1 align="center">Hi 👋, I'm MD. MAHDIUL HASAN.</h1>
-<h3 align="center">Web developer.</h3>
+![I am okaymahdi](https://i.ibb.co.com/T4CvMhJ/mahdiulhasan.png)
+<h1 align="center">Hi 👋, This is MD. MAHDIUL HASAN.</h1>
+<h3 align="center">Web Developer</h3>
+<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
-![Web Developer.](https://i.ibb.co.com/T4CvMhJ/mahdiulhasan.png)
+<div align="center">
 
-ASSALAMU ALAIKUM..! Hey There, How Are You Doing? Welcome to my profile. This is MD. MAHDIUL HASAN. You can call me MAHDI. I am a simple person, I like to meet inspiring people, learn something from them and try to share those valuable lessons with future generations. I am eager to learn and share my knowledge with others as openly as possible. I respect and follow experienced people. We all want to live a beautiful life in the future.
+![Profile views](https://komarev.com/ghpvc/?username=okaymahdi&color=red)
 
-Personally I spend a lot of my time behind web development and am passionate about creating error-free websites with 100% client satisfaction. I have a passion, I love to solve real world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on maintaining quality work and excellent communication.
-I mostly work in HTML, CSS, and JavaScript, but I also enjoy working with some technologies, including React js and Next js.
+<p>
+        ASSALAMU ALAIKUM..! Hey There, How Are You Doing? Welcome to my profile. This is MD. MAHDIUL HASAN. You can call
+        me
+        MAHDI. I am a simple person, I like to meet inspiring people, learn something from them and try to share those
+        valuable
+        lessons with future generations. I am eager to learn and share my knowledge with others as openly as possible. I
+        respect
+        and follow experienced people. We all want to live a beautiful life in the future.
 
-Complete And Fresh Hand Code Is My Ability. Client Satisfaction Is My First Priority. I Need Your Help In My Work.
+        Personally I spend a lot of my time behind web development and am passionate about creating error-free websites
+        with
+        100% client satisfaction. I have a passion, I love to solve real world problems. I am strategic, goal-oriented,
+        and
+        always work with an end goal in mind. I pride myself on maintaining quality work and excellent communication.
+        I mostly work in HTML, CSS, and JavaScript, but I also enjoy working with some technologies, including React js
+        and
+        Next
+        js.
 
-Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT.JS / NEXT.JS
+        Complete And Fresh Hand Code Is My Ability. Client Satisfaction Is My First Priority. I Need Your Help In My
+        Work.
+    </p>
 
-- 🔭 I’m currently working on **I work on various projects.**
+    <h3 align="left">Skills:</h3>
+    <p><span>HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / NEXT.JS</p>
 
-- 🌱 I’m currently learning **JavaScript, PHP.**
+</div>
 
-- 👯 I’m looking to collaborate on **React and Next js.**
 
-- 🤝 I’m looking for help with **React and Next js.**
+    - 🔭 I’m currently working on I work on various projects.
+    - 🌱 I’m currently learning JavaScript, PHP
+    - 👯 I’m looking to collaborate on React and Next js
+    - 🤔 I’m looking for help with React and Next js.
+    - 💬 Ask me about Web Developer.
+    - 📫 How to reach me: devmahdimunshee@gmail.com
+    - 😄 Pronouns: Customer Satisfaction Is My First Priority.
 
-- 💬 Ask me about **HTML, CSS, JS.**
-
-- 📫 How to reach me **devmahdimunshee@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=okaymahdi&label=Profile%20views&color=0e75b6&style=flat" alt="okaymahdi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okaymahdi" alt="okaymahdi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://twitter.com/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/okaymahdi" height="30" width="40" /></a>
-<a href="https://github.com/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/okaymahdi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/okaymahdi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/okaymahdi/" height="30" width="40" /></a>
-<a href="https://web.facebook.com/okaymahdi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/okaymahdi/" height="30" width="40" /></a>
-
+<p align="center">
+<a href="https://fb.com/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="okaymahdi" height="30" width="40" /></a>
+<a href="https://twitter.com/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okaymahdi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okaymahdi" height="30" width="40" /></a>
+<a href="https://codepen.io/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="okaymahdi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
+<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+<a href="https://dribbble.com/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="okaymahdi" height="30" width="40" /></a>
+<a href="https://www.behance.net/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="okaymahdi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Use To Code
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okaymahdi&show_icons=true&locale=en&layout=compact" alt="okaymahdi" /></p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okaymahdi&show_icons=true&locale=en" alt="okaymahdi" /></p>
+<hr/>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okaymahdi&" alt="okaymahdi" /></p>
+## Github Stats -
+
+<p align="center">
+  <a href="https://github.com/okaymahdi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okaymahdi&theme=radical" alt="Harun's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/okaymahdi"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=okaymahdi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/okaymahdi"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=okaymahdi&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br/>
+
+<br/>
+
+## Connect with me
+
+<div align="center">
+<br/>
+<a href="https://twitter.com/okaymahdi" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
+</a>
+<a href="https://www.linkedin.com/in/okaymahdi/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
+</a>
+<a href="https://www.facebook.com/okaymahdi" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
+</a>  
+</div>
