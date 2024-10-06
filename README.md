@@ -7,33 +7,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=okaymahdi&color=red)
 
-<p>
-        ASSALAMU ALAIKUM..! Hey There, How Are You Doing? Welcome to my profile. This is MD. MAHDIUL HASAN. You can call
-        me
-        MAHDI. I am a simple person, I like to meet inspiring people, learn something from them and try to share those
-        valuable
-        lessons with future generations. I am eager to learn and share my knowledge with others as openly as possible. I
-        respect
-        and follow experienced people. We all want to live a beautiful life in the future.
 
-        Personally I spend a lot of my time behind web development and am passionate about creating error-free websites
-        with
-        100% client satisfaction. I have a passion, I love to solve real world problems. I am strategic, goal-oriented,
-        and
-        always work with an end goal in mind. I pride myself on maintaining quality work and excellent communication.
-        I mostly work in HTML, CSS, and JavaScript, but I also enjoy working with some technologies, including React js
-        and
-        Next
-        js.
+ Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / NEXT.JS
 
-        Complete And Fresh Hand Code Is My Ability. Client Satisfaction Is My First Priority. I Need Your Help In My
-        Work.
-    </p>
-
-    <h3 align="left">Skills:</h3>
-    <p><span>HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / NEXT.JS</p>
-
+    
 </div>
+
+   
+
+
 
 
     - 🔭 I’m currently working on I work on various projects.
@@ -47,14 +29,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
+<a href="https://github.com/https://github.com/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/okaymahdi" height="30" width="40" /></a>
 <a href="https://fb.com/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="okaymahdi" height="30" width="40" /></a>
 <a href="https://twitter.com/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okaymahdi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okaymahdi" height="30" width="40" /></a>
-<a href="https://codepen.io/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="okaymahdi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="okaymahdi" height="30" width="40" /></a>
-<a href="https://www.behance.net/okaymahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="okaymahdi" height="30" width="40" /></a>
+
 </p>
 
 ## Use To Code
