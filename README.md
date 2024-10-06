@@ -67,9 +67,7 @@ Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT.JS / NEXT.JS.
 <a> 
     <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=okaymahdi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-   <a href="https://metrics.lecoq.io/okaymahdi">
-    ![GitHub metrics](https://metrics.lecoq.io/okaymahdi) 
-   </a>
+![Metrics](https://metrics.lecoq.io/okaymahdi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka)
 </a>
 
 <br/>
