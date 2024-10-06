@@ -8,43 +8,25 @@
 ![Profile views](https://komarev.com/ghpvc/?username=okaymahdi&color=red)
 
 
- Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / NEXT.JS
-
-    
+ Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / NEXT.JS 
 </div>
 
-<div align="left">
-    <p>
-        ASSALAMU ALAIKUM..! Hey There, How Are You Doing? Welcome to my profile. This is MD. MAHDIUL HASAN. You can call
-        me
-        MAHDI. I am a simple person, I like to meet inspiring people, learn something from them and try to share those
-        valuable
-        lessons with future generations. I am eager to learn and share my knowledge with others as openly as possible. I
-        respect
-        and follow experienced people. We all want to live a beautiful life in the future.
+ASSALAMU ALAIKUM..! Hey There, How Are You Doing? Welcome to my profile. This is MD. MAHDIUL HASAN. You can call me MAHDI. I am a simple person, I like to meet inspiring people, learn something from them and try to share those valuable lessons with future generations. I am eager to learn and share my knowledge with others as openly as possible. I respect and follow experienced people. We all want to live a beautiful life in the future.
 
-        Personally I spend a lot of my time behind web development and am passionate about creating error-free websites
-        with
-        100% client satisfaction. I have a passion, I love to solve real world problems. I am strategic, goal-oriented,
-        and
-        always work with an end goal in mind. I pride myself on maintaining quality work and excellent communication.
-        I mostly work in HTML, CSS, and JavaScript, but I also enjoy working with some technologies, including React js
-        and
-        Next
-        js.
+Personally I spend a lot of my time behind web development and am passionate about creating error-free websites with 100% client satisfaction. I have a passion, I love to solve real world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on maintaining quality work and excellent communication.
+I mostly work in HTML, CSS, and JavaScript, but I also enjoy working with some technologies, including React js and Next js.
 
-        Complete And Fresh Hand Code Is My Ability. Client Satisfaction Is My First Priority. I Need Your Help In My
-        Work.
-    </p>
-</div> <br>
+Complete And Fresh Hand Code Is My Ability. Client Satisfaction Is My First Priority. I Need Your Help In My Work.
 
-    - 🔭 I’m currently working on I work on various projects.
-    - 🌱 I’m currently learning JavaScript, PHP
-    - 👯 I’m looking to collaborate on React and Next js
-    - 🤔 I’m looking for help with React and Next js.
-    - 💬 Ask me about Web Developer.
-    - 📫 How to reach me: devmahdimunshee@gmail.com
-    - 😄 Pronouns: Customer Satisfaction Is My First Priority.
+Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT.JS / NEXT.JS.
+
+ - 🔭 I’m currently working on I work on various projects.
+ - 🌱 I’m currently learning JavaScript, PHP
+ - 👯 I’m looking to collaborate on React and Next js
+ - 🤔 I’m looking for help with React and Next js.
+ - 💬 Ask me about Web Developer.
+ - 📫 How to reach me: devmahdimunshee@gmail.com
+ - 😄 Pronouns: Customer Satisfaction Is My First Priority.
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -85,7 +67,7 @@
 <a> 
     <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=okaymahdi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
- ![GitHub metrics](https://metrics.lecoq.io/okaymahdi) 
+   <a href="https://metrics.lecoq.io/okaymahdi"><img alt="Mahdiul hasan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
 
 <br/>
