@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=okaymahdi&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=okaymahdi&color=1D4ED8)
 
 Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / NEXT.JS
 
@@ -78,12 +78,12 @@ Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / NEXT.JS
 
 <p align="center">
   <a href="https://github.com/okaymahdi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okaymahdi&theme=radical" alt="GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okaymahdi&theme=radical" alt="Mahdi's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/okaymahdi"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=okaymahdi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/okaymahdi"><img alt="Mahdi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=okaymahdi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/okaymahdi"><img alt="Mahdi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=okaymahdi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
@@ -91,10 +91,8 @@ Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / NEXT.JS
 ![Mahdi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=okaymahdi&custom_title=Mahdi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
    <br />
-   <p style="background-color: #0D1117; border: 1px solid #7F3FBF;">
-       <a style="color: #F85D7F;" href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Top Languages"
-               src="https://metrics.lecoq.io/okaymahdi" width="80%" /></a>
-   </p>
+ <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Top Languages"
+         src="https://metrics.lecoq.io/okaymahdi" width="100%" /></a>
 
 
 
