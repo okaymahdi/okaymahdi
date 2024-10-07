@@ -2,41 +2,41 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Oswald&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+MD.+MAHDIUL+HASAN.!;" />
 </h1>
-   <h3 align="center">Web Developer</h3>
+ <h3 align="center">Web Developer</h3>
 
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=okaymahdi&color=1D4ED8)
+![Profile views](https://komarev.com/ghpvc/?username=okaymahdi&color=2563EB&style=for-the-badge)
 
-Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / NEXT.JS
 
 </div>
 
-   ASSALAMU ALAIKUM..! Hey There, How Are You Doing? Welcome to my profile.
-   This is MD. MAHDIUL HASAN. You can call me MAHDI. I am a simple person, I
-   like to meet inspiring people, learn something from them and try to share
-   those valuable lessons with future generations. I am eager to learn and
-   share my knowledge with others as openly as possible. I respect and follow
-   experienced people. We all want to live a beautiful life in the future.
-   Personally I spend a lot of my time behind web development and am passionate
-   about creating error-free websites with 100% client satisfaction. I have a
-   passion, I love to solve real world problems. I am strategic, goal-oriented,
-   and always work with an end goal in mind. I pride myself on maintaining
-   quality work and excellent communication. I mostly work in HTML, CSS, and
-   JavaScript, but I also enjoy working with some technologies, including React
-   js and Next js. Complete And Fresh Hand Code Is My Ability. Client
-   Satisfaction Is My First Priority. I Need Your Help In My Work.
+ASSALAMU ALAIKUM..! Hey There, How Are You Doing? Welcome to my profile. This is MD. MAHDIUL HASAN. You can call me
+MAHDI. I am a simple person, I like to meet inspiring people, learn something from them and try to share those valuable
+lessons with future generations. I am eager to learn and share my knowledge with others as openly as possible. I respect
+and follow experienced people. We all want to live a beautiful life in the future.
+
+Personally I spend a lot of my time behind web development and am passionate about creating error-free websites with
+100% client satisfaction. I have a passion, I love to solve real world problems. I am strategic, goal-oriented, and
+always work with an end goal in mind. I pride myself on maintaining quality work and excellent communication.
+I mostly work in Html, CSS, and JavaScript, but I also enjoy working with some technologies, including React js and
+Next.js.
+
+ ### Why Choose Me? <br>
+✔ I Will Revise Until You Are Satisfied. <br>
+✔ Customer Satisfaction Is My First Priority. <br>
    
-   Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT.JS / NEXT.JS.
+  #### Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT.JS / NEXT.JS.
+  <br>
 
 - 🔭 I’m currently working on I work on various projects.
 - 🌱 I’m currently learning JavaScript, PHP.
 - 👯 I’m looking to collaborate on React and Next js.
 - 🤔 I’m looking for help with React and Next js.
-- 💬 Ask me about Html, Css, JS.
+- 💬 Ask me about Html, Css and JS.
 - 📫 How to reach me: devmahdimunshee@gmail.com
-- 😄 Pronouns: Customer Satisfaction Is My First Priority.
+- 😄 Pronouns: Complete And Fresh Hand Code Is My Ability. Client Satisfaction Is My First Priority. I Need Your Help In My Work.
 
    <h3 align="left">Connect with me:</h3>
    <p align="center">
@@ -91,8 +91,10 @@ Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / NEXT.JS
 ![Mahdi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=okaymahdi&custom_title=Mahdi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
    <br />
- <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Top Languages"
-         src="https://metrics.lecoq.io/okaymahdi" width="100%" /></a>
+<p>
+    <a href="https://github.com/okaymahdi"><img alt="Mahdiul hasan Top Languages"
+         src="https://metrics.lecoq.io/okaymahdi" width="55%" /></a>
+</p>
 
 
 
